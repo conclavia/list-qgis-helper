@@ -1,0 +1,20 @@
+{
+  "municipalities": [
+    "Clarence",
+    "Sorell"
+  ],
+  "datasets": [
+    "LIST Contours 5m",
+    "LIST Contours 10m",
+    "LIST Hydrographic Areas",
+    "LIST Hydrographic Lines",
+    "LIST Hydrographic Points",
+    "LIST Transport Segments",
+    "LIST Local Government Areas",
+    "LIST Local Government Reserves",
+    "LIST Public Land Classification",
+    "LIST Private Reserves (consists of conservation covenants, private sanctuaries, etc)",
+    "NCH Tasveg 3.0",
+    "TASMAP National Park Map Index"
+  ]
+}
